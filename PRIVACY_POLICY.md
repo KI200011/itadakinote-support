@@ -30,7 +30,6 @@ Our app stores the following information locally on your device using secure loc
 
 Our app requests the following permissions:
 
-- **Audio Background Mode**: Allows the app to continue playing audio when running in the background
 - **Vibration**: Used for haptic feedback during meditation sessions
 
 ## How We Use Your Information
