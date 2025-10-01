@@ -105,7 +105,6 @@ You have the right to:
 
 ### Permissions Justification
 - **Vibration**: Provides haptic feedback for meditation timing
-- **Background Audio**: Ensures meditation audio continues when app is backgrounded
 
 ## Contact Information
 
